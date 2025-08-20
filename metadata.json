@@ -2,7 +2,7 @@
   "meta": {
     "build": {
       "build-date": "2025-08-20",
-      "codified-date": "2025-04-12",
+      "codified-date": "2025-04-22",
       "platform": {
         "reproducible": "true",
         "version": "2.17.8"
@@ -14,7 +14,7 @@
           "name": "kiowatribe/law-xml"
         },
         {
-          "commit": "a3d4b428e37443602a2637cd40f6ccc856da1beb",
+          "commit": "0e787b8d762abcd1f686ce8ff0ee1f0ce0f674a0",
           "name": "kiowatribe/law-xml-codified"
         }
       ],
