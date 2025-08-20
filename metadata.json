@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "build": {
+      "build-date": "2025-08-20",
+      "codified-date": "2023-12-12",
+      "platform": {
+        "reproducible": "true",
+        "version": "2.17.8"
+      },
+      "publication": "publication/2025-08-20",
+      "repositories": [
+        {
+          "commit": "5ca5b4c4b96857255d0c95784a1c832dc430a7e3",
+          "name": "kiowatribe/law-xml"
+        },
+        {
+          "commit": "94b87f91d0553ef4e2042edc199a3853b6c53381",
+          "name": "kiowatribe/law-xml-codified"
+        }
+      ],
+      "search": {
+        "version": "v2"
+      }
+    },
+    "canonical-urls": {
+      "html": "https://law.kiowatribe.org",
+      "html-bulk": "https://github.com/kiowatribe/law-html",
+      "static-assets": "https://github.com/kiowatribe/law-static-assets",
+      "xml-bulk": "https://github.com/kiowatribe/law-xml"
+    },
+    "contact": {
+      "email": "help@openlawlib.org"
+    },
+    "description": "",
+    "history-start": "2023-12-12"
+  }
+}
